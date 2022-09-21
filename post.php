@@ -28,6 +28,6 @@
         <tr><td align="center" colspan="2"><input type="submit" value="ส่งข้อความ" ></td></tr>
     </table> 
     <br>
-    <center><a href="้home.html">กลับไปหน้าหลัก</a></center>
+    <center><a href="้index.php">กลับไปหน้าหลัก</a></center>
 </body>
 </html>
